@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Reports générés (fichiers de sortie)
+reports/*.json
+reports/*.txt
+reports/*.csv
+reports/*.html
+
+# Garder le dossier reports vide
+!reports/.gitkeep
+!README.md
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Config local (si besoin)
+# config.json
