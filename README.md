@@ -1,4 +1,4 @@
-# 🎯 RECON MASTER v1.0
+````# 🎯 RECON MASTER v1.0
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -153,12 +153,3 @@ Pour toute question ou suggestion : [GitHub Issues](https://github.com/zakariaab
 ---
 
 ⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !
-```
-
----
-
-## **ÉTAPE 2 : Crée `requirements.txt`**
-
-**À la racine, crée fichier `requirements.txt` :**
-```
-requests>=2.28.0   
